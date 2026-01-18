@@ -10,9 +10,8 @@ https://programming-24.mooc.fi/
 - Develop problem-solving skills
 - Prepare for Data Science and Machine Learning
 
-## Structure
-01_Introduction_to_Programming  
-02_Exercises  
+## Structure:
+It closely follows the course structure but it can be little different because of my personal notes and solutions
 
 Each folder contains Python solutions and notes documenting
 what I learned and mistakes I made.
